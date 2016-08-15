@@ -1,0 +1,17 @@
+{
+  "name": "hhrr",
+  "dependencies": {},
+  "globalDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160701023356",
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160715232503",
+    "method-override": "registry:dt/method-override#0.0.0+20160317120654",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "mongodb": "registry:dt/mongodb#2.1.0+20160602142941",
+    "mongoose": "registry:dt/mongoose#4.5.4+20160804041818",
+    "mongoose-promise": "registry:dt/mongoose-promise#4.5.4+20160720003345",
+    "node": "registry:dt/node#6.0.0+20160805072842",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157"
+  }
+}
